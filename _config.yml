@@ -4,9 +4,9 @@
 
 # Site
 title: Huanzの小窝
-subtitle: '记录·随笔·回忆·分享·教程·开源'
-description: '博客 记录 随笔 回忆 分享 教程 开源'
-keywords: "博客 记录 随笔 回忆 分享 教程 开源"
+subtitle: '随笔·回忆·分享·教程·开源'
+description: '一个简单的博客网站。'
+keywords: "随笔 回忆 开源 Hexo C语言 经验分享 阅读分享"
 author: Huanz
 language: zh-CN
 timezone: 'Asia/Shanghai'
