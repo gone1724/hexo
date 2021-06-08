@@ -1,9 +1,9 @@
 ---
-title: 制图初体验
+title: 机械制图初体验
 comments: true
 toc: true
 date: 2021-05-29 20:30:12
-updated: 2021-05-30 12:30:12
+updated: 2021-06-08 12:30:12
 categories:
 - 学习笔记
 tags:
@@ -33,8 +33,7 @@ Solidworks(简称SW),是机械3D制图入门软件之一。在本学期，我们
 # 字体问题
 教材书里规定，数字标注使用所谓B型字体，ISOGP系列字体是比较接近的，国标规定的中文字体使用长仿宋体。当然实际作图中文字只要清晰可辨即可。做完图，还出了一点小插曲，用Solidworks生成PDF时软件出现了报错，安装Arial Unicode MS这个字体可解决。
 {% collapse "这些字体都默认没有安装，就在网上找了一下。" open %}
-- 链接: https://pan.baidu.com/s/1T1nL63_jp5UxzobV5RdjTQ
-- 提取码: tsfr 
+- 百度网盘: https://pan.baidu.com/s/1T1nL63_jp5UxzobV5RdjTQ 提取码: tsfr 
 {% endcollapse %}
 {% collapse 顺便对Cloudflare-Pages测试了一下 %}
 - ~~上传了25.0MB的文件。~~ 已经从部署中移除。

@@ -3,7 +3,7 @@ title: 战略转移Cloudflare
 comments: true
 toc: true
 date: 2021-05-23 13:23:10
-updated: 2021-05-27 13:23:10
+updated: 2021-06-08 13:23:10
 categories:
 - 建站日志
 tags:
@@ -57,7 +57,7 @@ sticky:
 
 【部署完成】>> [https://gone1724-github-io.pages.dev](https://gone1724-github-io.pages.dev/)
 
-我实测从上传完成，到部署完成用时在50s左右，实测站点IP支持IPV6。
+我实测从上传完成，到部署完成用时在50s左右，实测站点IP支持IPV6！
 
 # 域名解析
 
@@ -65,11 +65,7 @@ sticky:
 
 ![屏幕截图 2021-05-23 143416.png](https://i.loli.net/2021/05/23/y4iH3FZjhJIf7rn.png)
 
-主观感觉上速度不太行，已换回[DNSPod](dnspod.cn)。
-
-![屏幕截图 2021-05-23 214355.png](https://i.loli.net/2021/05/23/ZBUEs9biAICw5jv.png)
-
-![屏幕截图 2021-05-23 214521.png](https://i.loli.net/2021/05/23/ypuDXs13vUj9lw4.png)
+~~主观感觉上速度不太行，已换回[DNSPod](dnspod.cn)。~~
 
 # 部署原理
 

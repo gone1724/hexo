@@ -1,7 +1,11 @@
 # hexo robots.txt
 User-agent: * 
 Allow: /
+Allow: /home/
+Allow: /about/
 Allow: /archives/
+Allow: /categories/
+Allow: /tags/
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
@@ -9,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://haunz.top/sitemap.xml
-Sitemap: http://haunz.top/baidusitemap.xml
+Sitemap: https://haunz.top/sitemap.xml
+Sitemap: https://haunz.top/baidusitemap.xml

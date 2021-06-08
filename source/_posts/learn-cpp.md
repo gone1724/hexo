@@ -1,5 +1,5 @@
 ---
-title: C语言学习笔记
+title: C语言初学笔记
 comments: true
 toc: true
 date: 2021-06-03 13:42:23
