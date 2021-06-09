@@ -12,8 +12,7 @@ tags:
 sticky:
 ---
 
-> [Cloudflare, Inc.](https://www.cloudflare.com/zh-cn/) | 一个替换GitHub Pages的方案
-
+[Cloudflare Page](https://www.cloudflare.com/zh-cn/)是一个替换GitHub Pages的方案。
 # 缘起
 
 在浏览本Hexo主题的作者的博客——[糖菓·部落](https://candinya.com/)时，发现他的博客没有托管在<a href="https://github.io" target="_blank">Github Pages</a>上，而是使用了<a href="https://pages.cloudflare.com" target="_blank">Cloudflare Pages</a>。虽然我有了解，现在国内外有很多静态网页托管平台，但GitHub Pages在各方面应该算是一个首选。（尤其对于我这种新手）
