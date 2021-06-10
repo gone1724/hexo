@@ -3,7 +3,7 @@ title: 机械制图初体验
 comments: true
 toc: true
 date: 2021-05-29 20:30:12
-updated: 2021-06-08 12:30:12
+updated: 2021-06-10 12:30:12
 categories:
 - 学习笔记
 tags:
@@ -12,9 +12,7 @@ tags:
 sticky:
 ---
 
->最近在做制图课程设计，用Solidworks出工程图。
-
-Solidworks(简称SW),是机械3D制图入门软件之一。在本学期，我们的课程设计要求使用Solidworks画铣刀头的装配图。
+最近在做制图课程设计，用Solidworks出工程图。Solidworks(简称SW),是机械3D制图入门软件之一。在本学期，我们的课程设计要求使用Solidworks画铣刀头的装配图。
 
 <!-- more -->
 
