@@ -70,6 +70,7 @@ T
 - char *s="C Language";表示s是一个指向字符串的指针变量，把字符串的首地址赋予s。{% collapse 点击展开答案和解析 %}
 T
 {% endcollapse %}
+
 ## 单选题
 - 设变量定义为 int a[2]={1,3}, *p=&a[0]+1; ，则*p的值是( )。{% collapse 点击展开答案和解析 %}
 答案为3
@@ -106,3 +107,8 @@ float f, *pf = f;含义同赋值语句*pf = f不同，而是相当于float f, *p
 
 定义时初始化 float *pf = &f;等价的语句是:float *pf;pf = &f;是正确的。
 {% endcollapse %}
+
+# **后记**
+写个东西，排版有点费事，有这时间还不如滚去复习去~ 
+
+<img src="https://i.loli.net/2021/06/14/asFM15mb9BKz3rW.jpg" style="zoom:30%" />
