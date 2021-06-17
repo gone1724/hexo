@@ -33,7 +33,7 @@ toc: ture
 - [x] 使用[ **GitHub Pages** ](https://github.io)存储网页源资源
 - [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管、域名解析
 
-# <font color=#6633cc>联系我
+# <font color=#6633cc>联系我</font>
 
 - 📧 gone1724#gmail.com
 
