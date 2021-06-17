@@ -7,12 +7,13 @@ toc: ture
 ---
 
 <div style=" text-align:center;">
-本博客已运行 <i class="fa fa-refresh" aria-hidden="true"></i> <span id="span_dt">Loading...</span>
+本博客诞生于 <i class="fa fa-refresh" aria-hidden="true"></i> 2021/5/15
 </div>
+
 
 ![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客的提交日期")
 
-在开始之前，贴一个我很喜欢的博客[追梦人](https://dream.ren/about.html),性格方面感觉好相似~
+在开始介绍自己之前，贴一个我很喜欢的博客[追梦人](https://dream.ren/about.html),性格方面感觉好相似~
 
 # <font color=#6633cc>关于我</font>
 
