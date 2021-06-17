@@ -28,20 +28,13 @@ toc: ture
 
 # <font color=#6633cc>小站概况</font>
 
-- [x] 使用[ **Hexo** ](https://hexo.io)强力驱动
-- [x] 使用[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)作为网站主题
-- [x] 使用[ **namesilo** ](https://www.namesilo.com/)购买网站域名
-- [x] 使用[ **GitHub Pages** ](https://github.io)对网页资源存储
-- [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管
-- [x] 使用[ **DNSPod** ](https://www.dnspod.cn/)进行域名解析
-- [x] 使用[ **Waline** ](https://waline.js.org/)提供的强大的评论区系统
-- [x] 使用[ **Leancloud** ](https://console.leancloud.app)提供评论区数据存储支持
-- [x] 使用[ **Vercel** ](https://vercel.com)生成评论区
-- [x] 使用[ **Gravater** ](https://en.gravatar.com/)提供评论区头像
+- [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
+- [x] 在[ **namesilo** ](https://www.namesilo.com/)购买网站域名
+- [x] 使用[ **GitHub Pages** ](https://github.io)存储网页源资源
+- [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管、域名解析
 
-# <font color=#6633cc>联系我</font>
+# <font color=#6633cc>联系我
 
-- 💬 本站支持 **评论** 哦~
 - 📧 gone1724#gmail.com
 
 # <font color=#6633cc>声明</font>

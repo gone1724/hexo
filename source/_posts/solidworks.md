@@ -31,8 +31,6 @@ sticky:
 # 字体问题
 教材书里规定，数字标注使用所谓B型字体，ISOGP系列字体是比较接近的，国标规定的中文字体使用长仿宋体。当然实际作图中文字只要清晰可辨即可。做完图，还出了一点小插曲，用Solidworks生成PDF时软件出现了报错，安装Arial Unicode MS这个字体可解决。
 
-下载链接 ：
-
 - 百度网盘：[地址链接](https://pan.baidu.com/s/1T1nL63_jp5UxzobV5RdjTQ) 提取码: tsfr 
 - 阿里云盘：[arial-unicode-ms.ttf](https://www.aliyundrive.com/s/tVtv5X4iijE)	 [LFSwm7.ttf](https://www.aliyundrive.com/s/nAWN8iS7Ppr)	[ISOCP.ttf](https://www.aliyundrive.com/s/GLADrncgy3L)
 
