@@ -42,15 +42,16 @@ comments: true
 
 # 我做了什么？
 
-在`themes\Kratos-Rebirth\_config.yml`中添加一个自定义项如下。
+通过下面的操作，当我更换域名，只需修改在配置文件中统计代码id号即可。
 
-```md
+1. 在`themes\Kratos-Rebirth\_config.yml`中添加一个自定义项如下。
+
+```yml
 site_analytics_cnzz: 1279942268 #输入www.CNZZ.com的站长统计id号，默认在网页中隐藏
 ```
 
-在`themes\Kratos-Rebirth\layout\_partial\head.ejs`文件中，在文本最后， `</body>`之前，添加如下代码,自定义项与前面对应。
+2. 在`themes\Kratos-Rebirth\layout\_partial\head.ejs`文件中，在文本最后， `</body>`之前，添加如下代码,自定义项与前面对应。
 
 ```html
 <% if (theme.site_analytics_cnzz) { %><script type="text/javascript">document.write(unescape("%3Cspan style='display:none;' id='cnzz_stat_icon_<%- theme.site_analytics_cnzz %>'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D<%- theme.site_analytics_cnzz %>' type='text/javascript'%3E%3C/script%3E"));</script><% } %>
 ```
-这样当我更换域名，只需修改在配置文件中统计代码id号即可。

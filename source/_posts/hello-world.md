@@ -9,7 +9,6 @@ comments: true
 toc: true
 ---
 
-第一次尝试发布文章。
-<!-- more -->
+# 第一篇文章。
 
-![logo.png](https://i.loli.net/2021/05/19/rXSOFDQhaucj98B.png "sm.ms | 图床测试")
+<!-- more -->

@@ -1,7 +1,7 @@
 ---
 title: 小单车，我们走
 date: 2021-05-18 18:51:41
-updated: 2021-06-02 18:51:41
+updated: 2021-06-18 15:51:41
 categories:
 - 智能车
 tags:
@@ -19,7 +19,7 @@ toc: false
 本人参与硬件部分，不过也是新手。把自己的硬件部分开源，希望和大家一起交流进步。好多资料网络上都可以查得到的，可以认为这里做的是硬件方案的分享。
 <!-- more -->
 
-本篇博客记录截至`2021.5.18`，最新更新请前往[GitHub项目地址](https://github.com/gone1724/Smartcar_K)。
+本篇博客记录截至`2021.6.18`，最新更新请前往[GitHub项目地址](https://github.com/gone1724/Smartcar_K)。
 
 ***********
 
@@ -27,24 +27,20 @@ toc: false
 先上传前期的一套方案的原理图，目前遇到的问题是主板模块下载程序成功率较低。
 可能是MCU供电和USB转TTL电压因为分开供电，电压不稳造成的。
 
-[MCU.~(118).SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/MCU.~(118).SchDoc)
-[MOTOR V1.1.SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/MOTOR%20V1.1.SchDoc)
-[OPA4377四路 V2.0.SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/OPA4377%E5%9B%9B%E8%B7%AF%20V2.0.SchDoc)
-
 # 2021-3-22
 究极一体板方案！（bushi）这是最近尝试的一体板方案，包括全桥驱动芯片和四电感运放部分，希望不要出问题。
-
-[MCU V3.1.SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/MCU%20V3.1.SchDoc)
 
 # 2021-4-7
 MCU V3.1的驱动部分，8V稳压好像只能到7.1V。
 
-[MCU V3.1.SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/MCU%20V3.1.SchDoc )
-
 # 2021-5-17
 把主板上稳压去掉了，用的之前的驱动板驱动，几个月了，稳的一批。
 不过我现在的2350运放又出问题了，之前还能用，现在咋用不了了，气！
-[MCU V3.1.SchDoc](https://github.com/gone1724/Smartcar_K/blob/main/MCU%20V3.1.SchDoc)
 
-****
-![My Car's Photos](https://i.loli.net/2021/06/03/TuX9wvALgcbFldp.jpg "无缘省赛，哎~")
+# 2021-5-20
+
+运放没问题，是电磁杆焊的有问题，FPC好难焊得好啊。
+
+# 2021-6-6
+
+只能暂时说再见了！我们最后代码已经上传，只做到了单车的直线前进。不能转圈的原因，学长说可能滤波效果没做好之类，不管了。
