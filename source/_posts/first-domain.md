@@ -18,6 +18,6 @@ toc: true
 
 域名是使用腾讯系的[DNSPod](https://www.dnspod.cn/)解析[gone1724.github.io](https://github.com/gone1724/gone1724.github.io "项目地址")，DNSPod好久没登陆了，没想到它还在解析着以前申请过的一个 **.tk** 域名。好执着~
 
-~~这腾讯怎么就把我域名给拦截了？~~ 已经申诉成功。
+~~这腾讯怎么就把我域名给拦截了？~~ 
 
-![微信截图.jpg](https://i.loli.net/2021/05/19/lDIKyvM7zGgdVZO.jpg)
+已经申诉成功。
