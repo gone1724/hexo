@@ -9,7 +9,7 @@ categories:
 tags:
 - 经验分享
 - Hexo
-sticky:
+sticky: 100
 ---
 
 [Cloudflare Pages](https://www.cloudflare.com/zh-cn/)是一个替换GitHub Pages的方案，下面我将简单描述我把博客从Github Pages迁移到Cloudflare Pages的过程。
@@ -52,7 +52,7 @@ sticky:
 
 下面我们只需在[Pages](https://pages.cloudflare.com)注册好账号，点击那个大大的黄色的Get Started按钮，按照指引授权GitHub权限，选择构建使用的仓库(就是GitHub Pages的仓库地址)。设置构建的命令，我不太懂，也没有改动，最终就部署完成了。
 
-{% alertbox success "【部署完成】>> [https://gone1724-github-io.pages.dev](https://gone1724-github-io.pages.dev/)" %}
+【 **部署完成** 】>> [https://gone1724-github-io.pages.dev](https://gone1724-github-io.pages.dev/)
 
 我实测从上传Github完成，到Cloudflare部署完成用时在50s左右，并且站点IP支持IPV6！
 
@@ -72,9 +72,9 @@ sticky:
 - 此时，我的博客网站已完全脱离GitHub/GitHub Pages，在访客访问[huanz.top](https://huanz.top/)时就会解析到Cloudflare的主机。
   + 同理，GitHub Pages则是在GitHub自己主机上生成，主机在国外。
   + ~~Cloudflare Pages在国内有主机，访问速度会较快。（官网介绍）~~
-  + 但目前来看，Cloudflare主机好像还是是美国节点。
-  + Cloudflare Pages二级域名速度测试：[Ping](http://ping.chinaz.com/gone1724-github-io.pages.dev) [网站测速](https://www.ping.cn/http/gone1724-github-io.pages.dev)
+  + 从测试来看，Cloudflare主机好像还是是美国节点。
+  + Cloudflare Pages二级域名速度测试：[Ping测试](http://ping.chinaz.com/gone1724-github-io.pages.dev) [网站测速1](https://www.ping.cn/http/gone1724-github-io.pages.dev) [网站测速2](http://tool.chinaz.com/speedtest/gone1724-github-io.pages.dev)
 
 # 更多细节
 
-更多细节上的疑问，欢迎在下面评论区进行留言交流~
+更多细节上的疑问，欢迎留言交流~
