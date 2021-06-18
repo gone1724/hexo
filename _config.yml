@@ -4,9 +4,9 @@
 
 # Site
 title: Huanzの小窝
-subtitle: '网络世界那么大，这里是我的小世界' # '随笔·回忆·分享·教程·开源'
+subtitle: '网络世界那么大，这儿是我的小空间' # '随笔·回忆·分享·教程·开源'
 description: '博客 网站 随笔 回忆 开源 Hexo C语言 经验分享 阅读分享'
-keywords: "随笔 回忆 开源 Hexo C语言 经验分享 阅读分享"
+keywords: "博客 网站 随笔 回忆 开源 Hexo C语言 经验分享 阅读分享"
 author: Huanz
 language: zh-CN
 timezone: 'Asia/Shanghai'

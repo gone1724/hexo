@@ -13,13 +13,13 @@ toc: ture
 
 ![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
 
-# <font color=#6633cc>小站概况</font>
+# <font color=#8b00ff>小站概况</font>
 
 写博客是兴趣使然，现在还很初级，还有很多东西要去学习。本站现在的主色调是蓝色和紫色，也是我目前喜欢的颜色。
 
 - [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
 - [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名
-- [x] [ **GitHub ** ](https://github.com/gone1724)存储网页静态资源的源文件
+- [x] [ **GitHub** ](https://github.com/gone1724) 存储网页静态资源的源文件
 - [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管、域名解析
 
 # <font color=#8b00ff>关于我</font>
@@ -44,7 +44,7 @@ toc: ture
 
 这里贴出一些我收藏夹里的链接，有兴趣就看看吧~
 
-- [极客电台](http://geek.wasai.org) 算是我在博客世界“启蒙”，现在很久没看了。
+- [极客电台](http://geek.wasai.org) 算是我在博客世界“启蒙”，现在很久没看了，现在专注投资理财了。
 - [追梦人](https://dream.ren/about.html) 一个很有技术能力的博主，在性格方面感觉好相似~
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) 大佬的博客不必多说，每周五更新一些有意思的东西。
 

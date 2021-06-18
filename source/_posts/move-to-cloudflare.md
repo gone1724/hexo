@@ -42,8 +42,6 @@ sticky:
 
 >  “ Cloudflare家大业大，并且是专门做网络服务的，做网页托管应该不会太菜吧。 ”
 
-![屏幕截图 2021-05-23 213728.png](https://i.loli.net/2021/05/23/ldZbDFGcrsw3iU2.png)
-
 说实话，转移到<a href="https://pages.cloudflare.com" target="_blank">Cloudflare Pages</a>能不能解决百度收录的问题，我也不知道。但单这项服务来说，它也不差呀~
 
 # 转移部署
@@ -62,9 +60,6 @@ sticky:
 
 我的域名[huanz.top](https://huanz.top/)之前托管在[DNSPod](dnspod.cn)。由于Cloudflare也提供了DNS解析服务，就顺便也试用了一下它的免费的解析套餐。
 
-![屏幕截图 2021-05-23 143416.png](https://i.loli.net/2021/05/23/y4iH3FZjhJIf7rn.png)
-
-~~主观感觉上速度不太行，已换回[DNSPod](dnspod.cn)。~~ 
 最近发现如果使用自己的域名，就必须使用Cloudflare提供的DNS解析服务欸，可恶。
 
 # 部署原理
@@ -79,8 +74,6 @@ sticky:
   + ~~Cloudflare Pages在国内有主机，访问速度会较快。（官网介绍）~~
   + 但目前来看，Cloudflare主机好像还是是美国节点。
   + Cloudflare Pages二级域名速度测试：[Ping](http://ping.chinaz.com/gone1724-github-io.pages.dev) [网站测速](https://www.ping.cn/http/gone1724-github-io.pages.dev)
-
-![global-network.png](https://i.loli.net/2021/05/23/UdFsluekOYTfw7m.png)
 
 # 更多细节
 
