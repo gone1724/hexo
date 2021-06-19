@@ -13,20 +13,22 @@ toc: ture
 
 ![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
 
-# <font color=#8b00ff>小站概况</font>
+# <font color=#801dae>小站概况</font>
 
-写博客是兴趣使然，现在还很初级，还有很多东西要去学习。本站现在的主色调是蓝色和紫色，也是我目前喜欢的颜色。
+写博客是兴趣使然，现在还很初级，还有很多东西要去学习。
+
+本站现在的主色调是蓝色和紫色，也是我目前喜欢的颜色。
 
 - [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
 - [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名
 - [x] [ **GitHub** ](https://github.com/gone1724) 存储网页静态资源的源文件
 - [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管、域名解析
 
-# <font color=#8b00ff>关于我</font>
+# <font color=#801dae>关于我</font>
 
 - 在读 机械专业 大学生
 
-# <font color=#8b00ff>兴趣爱好</font>
+# <font color=#801dae>兴趣爱好</font>
 
 - 喜欢去探索新领域，但三分钟热度
 
@@ -40,7 +42,7 @@ toc: ture
 
   
 
-# <font color=#8b00ff>推荐链接</font>
+# <font color=#801dae>推荐链接</font>
 
 这里贴出一些我收藏夹里的链接，有兴趣就看看吧~
 
@@ -48,11 +50,11 @@ toc: ture
 - [追梦人](https://dream.ren/about.html) 一个很有技术能力的博主，在性格方面感觉好相似~
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) 大佬的博客不必多说，每周五更新一些有意思的东西。
 
-# <font color=#8b00ff>联系我</font>
+# <font color=#801dae>联系我</font>
 
 - 邮箱：gone1724#gmail.com
-- Github提出一个[Issues](https://github.com/gone1724/gone1724.github.io)
+- Github提出一个[Issues](https://github.com/gone1724/gone1724.github.io/issues)
 - 网页末尾有其他方式的链接
 
-# <font color=#8b00ff>声明</font>
+# <font color=#801dae>声明</font>
 <font color=#7B68EE>本站文章若未注明出处则为原创，仅代表博主个人愚见，转载请注明出处。若内容侵犯了您的权益，请电子邮件联系以便删除。</font>
