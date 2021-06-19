@@ -15,9 +15,7 @@ toc: ture
 
 # <font color=#801dae>小站概况</font>
 
-写博客是兴趣使然，现在还很初级，还有很多东西要去学习。
-
-本站现在的主色调是蓝色和紫色，也是我目前喜欢的颜色。
+写博客是兴趣使然，现在网站还很初级，还有很多东西要去学习，本站[永久链接](https://gone1724.github.io/)。
 
 - [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
 - [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名
@@ -31,6 +29,8 @@ toc: ture
 # <font color=#801dae>兴趣爱好</font>
 
 - 喜欢去探索新领域，但三分钟热度
+
+- 喜欢蓝色和紫色，也是网站目前使用的主色调
 
 - 17年接触博客，不习惯发朋友圈/说说
 
