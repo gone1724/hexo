@@ -6,20 +6,19 @@ comments: false
 toc: ture
 ---
 
-<div style=" text-align:center;">
-本博客诞生于 <i class="fa fa-refresh" aria-hidden="true"></i> 2021/5/15
-</div>
-
-
-![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
-
 # <font color=#801dae>小站概况</font>
 
 写博客是兴趣使然，现在网站还很初级，还有很多东西要去学习，本站[永久链接](https://gone1724.github.io/)。
 
+![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
+
+<div style=" text-align:center;">
+本博客诞生于 <i class="fa fa-refresh" aria-hidden="true"></i> 2021/5/15
+</div>
+
 - [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
-- [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名
-- [x] [ **GitHub** ](https://github.com/gone1724) 存储网页静态资源的源文件
+- [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名，目前唯一付费项目
+- [x] [ **GitHub** ](https://github.com/gone1724) 存储网页资源的源文件，去[这里](https://github.com/gone1724/hexo/commits/master)看提交的更新
 - [x] 使用[ **Cloudflare Pages** ](https://pages.cloudflare.com/)对网站进行托管、域名解析
 
 # <font color=#801dae>关于我</font>
