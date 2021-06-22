@@ -8,7 +8,7 @@ toc: ture
 
 # <font color=#801dae>小站概况</font>
 
-写博客是兴趣使然，现在网站还很初级，还有很多东西要去学习，本站[永久链接](https://gone1724.github.io/)。
+写博客是兴趣使然，现在网站还很初级，还有很多东西要去学习。
 
 ![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
 
