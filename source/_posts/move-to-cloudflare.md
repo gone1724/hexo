@@ -28,7 +28,7 @@ sticky: 100
 文中给出的解决方案有：
 -  CDN解决最后一公里的资源分发，但无法完美解决问题，尤其对小流量的个人博客。
 -  Coding Pages做镜像站，但访问时会先出现跳转页面，导致百度爬虫无法正常收录。
--  使用[ zeit.co ](zeit.co)提供的静态资源hosting服务，本质上他们提供了Storage+CDN+DNS这一套完整服务。
+-  使用[ zeit.co ](https://zeit.co)提供的静态资源hosting服务，本质上他们提供了Storage+CDN+DNS这一套完整服务。
 
 # 解决问题
 
@@ -58,7 +58,7 @@ sticky: 100
 
 # 域名解析
 
-我的域名[huanz.top](https://huanz.top/)之前托管在[DNSPod](dnspod.cn)。由于Cloudflare也提供了DNS解析服务，就顺便也试用了一下它的免费的解析套餐。
+我的域名[huanz.top](https://huanz.top/)之前托管在[DNSPod](https://dnspod.cn)。由于Cloudflare也提供了DNS解析服务，就顺便也试用了一下它的免费的解析套餐。
 
 最近发现如果使用自己的域名，就必须使用Cloudflare提供的DNS解析服务欸，可恶。
 
