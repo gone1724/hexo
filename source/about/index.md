@@ -8,13 +8,10 @@ toc: ture
 
 # <font color=#801dae>小站概况</font>
 
-写博客是兴趣使然，现在网站还很初级，还有很多东西要去学习。
+本博客诞生于 2021/5/15。博客是兴趣使然，网站还很初级，还有很多东西要去学习。
 
 ![gone1724's Github chart](http://ghchart.rshah.org/9370db/gone1724 "这个图片可以动态展示博客在GitHub上的提交日期")
 
-<div style=" text-align:center;">
-本博客诞生于 <i class="fa fa-refresh" aria-hidden="true"></i> 2021/5/15
-</div>
 
 - [x] [ **Hexo** ](https://hexo.io)强力驱动、[ **Kratos-Rebirth** ](https://github.com/Candinya/Kratos-Rebirth)主题
 - [x] 在[ **namesilo** ](https://www.namesilo.com/)上购买网站域名，目前唯一付费项目
@@ -43,7 +40,7 @@ toc: ture
 
 # <font color=#801dae>推荐链接</font>
 
-这里贴出一些我收藏夹里的链接，有兴趣就看看吧~
+这里贴出我收藏夹里的一些博主的链接，有兴趣就看看吧~
 
 - [极客电台](http://geek.wasai.org) 算是我在博客世界“启蒙”，现在很久没看了，现在专注投资理财了。
 - [追梦人](https://dream.ren/about.html) 一个很有技术能力的博主，在性格方面感觉好相似~
