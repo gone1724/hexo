@@ -1,6 +1,6 @@
 ---
 title: 你好哇~ 欢迎来访🥳
-date: 2021-05-27 10:10:12
+date: 2021-11-13 10:10:12
 type: about
 comments: false
 toc: ture
@@ -24,13 +24,11 @@ toc: ture
 
 # <font color=#801dae>兴趣爱好</font>
 
-- 喜欢去探索新领域，但三分钟热度
+- 喜欢去探索新领域，但会三分钟热度
 
-- 喜欢蓝色和紫色，也是网站目前使用的主色调
+- 偏向于蓝色和紫色，也是网站目前使用的主色调
 
-- ~~折腾安卓~~ 折腾Win
-
-- 玩原神，等洛克王国手游！
+- 玩原神（有胡桃了兄弟们，┗|｀O′|┛ 嗷~~）
 
   
 
@@ -38,15 +36,15 @@ toc: ture
 
 这里贴出我收藏夹里的一些博主的链接，有兴趣就看看吧~
 
-- [极客电台](http://geek.wasai.org) 算是我在博客世界“启蒙”，现在很久没看了，现在专注投资理财了。
-- [追梦人](https://dream.ren/about.html) 一个很有技术能力的博主，在性格方面感觉好相似~
-- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) 大佬的博客不必多说，每周五更新一些有意思的东西。
+- [极客电台](http://geek.wasai.org) 算是我在博客世界“启蒙”，现在很久没看了，现在内容专注理财了？
+- [追梦人](https://dream.ren/about.html) 一个很有技术能力的博主，用过他的DNS解析，还有就是在性格方面感觉好相似~
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) 高质量博客不必多说，每周五更新一些有意思的东西。
 
 # <font color=#801dae>联系我</font>
 
 - 邮箱：gone1724#gmail.com
 - Github提出一个[Issues](https://github.com/gone1724/gone1724.github.io/issues)
-- 网页末尾有其他方式的链接
+- 网页末尾可能会放出其他方式的链接
 
 # <font color=#801dae>声明</font>
 <font color=#7B68EE>本站文章若未注明出处则为原创，仅代表博主个人愚见，转载请注明出处。若内容侵犯了您的权益，请电子邮件联系以便删除。</font>
