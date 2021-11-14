@@ -14,6 +14,10 @@ sticky:
 
 这学期开了C语言课，马上也就要期末考试了，就把最近[PTA](https://pintia.cn/)和PPT里的一些题整理一下下发到这里，非计算机专业，学术不精。
 
+`2021.9.10更新`
+
+发现了阮一峰大佬写的好东西，想入门的可以参考这个，我的太烂了。[链接1](https://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html) [链接2](https://wangdoc.com/clang/)
+
 <!-- more -->
 
 # **结构**
