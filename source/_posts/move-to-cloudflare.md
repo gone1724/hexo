@@ -9,7 +9,7 @@ categories:
 tags:
 - 经验分享
 - Hexo
-sticky: 100
+sticky: 
 ---
 
 [Cloudflare Pages](https://www.cloudflare.com/zh-cn/)是一个替换GitHub Pages的方案，下面我将简单描述我把博客从Github Pages迁移到Cloudflare Pages的过程。
