@@ -3,7 +3,7 @@ title: 战略转移Cloudflare
 comments: true
 toc: true
 date: 2021-05-23 13:23:10
-updated: 2021-06-08 13:23:10
+updated: 2021-12-16 13:23:10
 categories:
 - 建站日志
 tags:
@@ -50,17 +50,17 @@ sticky:
 
 当然，如果像我一样，已有GitHub Pages搭建好的博客，单纯想要把把托管转移到Cloudflare Pages，这个过程是不难的。无需改动GitHub相关的设置，相当于一个锦上添花的过程，这样也方便我们随时回退GitHub Pages。
 
-下面我们只需在[Pages](https://pages.cloudflare.com)注册好账号，点击那个大大的黄色的Get Started按钮，按照指引授权GitHub权限，选择构建使用的仓库(就是GitHub Pages的仓库地址)。设置构建的命令，我不太懂，也没有改动，最终就部署完成了。
+下面我们只需在[Pages](https://pages.cloudflare.com)注册好账号，点击那个大大的黄色的Get Started按钮，按照指引授权GitHub权限，选择构建使用的仓库(就是GitHub Pages的仓库地址)。其他设置构建的命令，都没有改动按照默认就好，最终就部署完成了。
 
 【 **部署完成** 】>> [https://gone1724-github-io.pages.dev](https://gone1724-github-io.pages.dev/)
 
-我实测从上传Github完成，到Cloudflare部署完成用时在50s左右，并且站点IP支持IPV6！
+我实测从上传Github完成，到Cloudflare部署完成用时在50s~3min，并且站点IP支持IPV6！
 
 # 域名解析
 
 我的域名[huanz.top](https://huanz.top/)之前托管在[DNSPod](https://dnspod.cn)。由于Cloudflare也提供了DNS解析服务，就顺便也试用了一下它的免费的解析套餐。
 
-最近发现如果使用自己的域名，就必须使用Cloudflare提供的DNS解析服务欸，可恶。
+最近发现如果使用自己的域名，就必须使用Cloudflare提供的DNS解析服务欸，用就用吧。
 
 # 部署原理
 
